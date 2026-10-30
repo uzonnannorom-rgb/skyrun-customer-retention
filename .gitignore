@@ -1,0 +1,13 @@
+# Data (not included in this repository)
+*.csv
+
+# Python and Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Editor and system files
+.vscode/
+.DS_Store
+Thumbs.db
